@@ -39,7 +39,6 @@ const SearchFilters = () => {
                 {item.name}
               </option>
             ))}
-
           </Select>
         </Box>
       ))}
